@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "ff84708e2fa3ca77",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d995789b0bb5466",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc609f20f400eb21",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "edc7abe4929fa51f",
+    "type": "split",
+    "children": [
+      {
+        "id": "44069b7cf432d893",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50fdc4285bb85998",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ed0d92688b61bf85",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6c9fec4e0bd44629",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1770d3f86140a547",
+    "type": "split",
+    "children": [
+      {
+        "id": "a22306d211da7be3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83cca556b1d3bcfd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "f2d3c1229fa4d64b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f74f78af86384876",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a8836514dac43172",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "be91c05e0c4941cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "bc609f20f400eb21",
+  "lastOpenFiles": [
+    "各种学习笔记/ffmpeg学习.md",
+    "各种学习笔记/Batch学习.md",
+    "未命名 1.canvas",
+    "未命名 2.canvas",
+    "未命名.canvas",
+    "2023-12-02.md",
+    "未命名 3.canvas",
+    "未命名 4.canvas",
+    "原神科研/夏洛蒂奶量核爆（）.md",
+    "各种学习笔记/Photoshop/用PS制作GIF图.md",
+    "各种学习笔记/Photoshop/抠图的一些经验（果然是从经验里学习.md",
+    "各种学习笔记/Photoshop/去水印.md",
+    "各种学习笔记/Photoshop/增加清晰度.md",
+    "各种学习笔记/Photoshop/照片换底色.md",
+    "各种学习笔记/Everything学习.md",
+    "原神科研/地方传奇·自律超算型场力发生装置-抗性测试.md",
+    "原神科研/超绽放-精通增伤计算.md",
+    "各种学习笔记/Matlab/Symbolic Math Toolbox.md",
+    "各种学习笔记/Matlab/README.md",
+    "各种学习笔记/Pandas/Note.md",
+    "各种学习笔记/Photoshop/GIF图_2.md",
+    "各种学习笔记/ADB指令(我用过的).md",
+    "未命名",
+    "各种学习笔记/VIM学习.md",
+    "杂项/多行公式对齐.md",
+    "原神科研/莱依拉4命测试.md",
+    "原p召唤/概述.md",
+    "原神科研/原神抽卡分析网站.md",
+    "各种学习笔记/杂项",
+    "各种学习笔记/Typora",
+    "原神科研",
+    "各种学习笔记/Matlab",
+    "各种学习笔记/PowerPoint",
+    "原p召唤/概述.pdf",
+    "原p召唤/附V：一些想法.md",
+    "原p召唤/附IV：部分角色设计.md",
+    "原p召唤/附III：部分武器&圣遗物设计.md",
+    "原p召唤/附I：角色一览&元素反应.pdf",
+    "原p召唤",
+    "各种学习笔记/Photoshop"
+  ]
+}
